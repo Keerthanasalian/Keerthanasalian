@@ -55,7 +55,7 @@ Creating interactive dashboards and reports using Power BI, including data trans
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: linkedin.com/in/keerthana-salian
+💼 LinkedIn: https://www.linkedin.com/in/keerthana-salian
 
 📧 Email: keerthanasalian9@gmail.com
 
